@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 794 1123" role="img" aria-labelledby="title desc">
+<title id="title">Garden hose thread evidence worksheet</title><desc id="desc">Blank A4 notes for two fitting ends. Record markings, male or female threads, male outside diameter, pitch, method and uncertainties. This is not a thread gauge or a fit certificate. All illustrations are not to scale.</desc>
+<rect width="794" height="1123" fill="white"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#193b2b">
+<text x="44" y="48" font-size="13" font-weight="bold" letter-spacing="2">HOSE THREAD MATCH · PRACTICAL NOTES</text>
+<text x="44" y="88" font-size="30" font-weight="bold">Garden hose thread evidence</text>
+<text x="44" y="114" font-size="14">Keep Part A and Part B separate. Unknown stays unknown.</text>
+<rect x="44" y="134" width="706" height="60" rx="4" fill="#f3efe3"/>
+<text x="58" y="158" font-size="14" font-weight="bold">Not a thread gauge. Do not force a fitting.</text>
+<text x="58" y="180" font-size="12">Turn off and depressurise before disconnecting; follow the equipment instructions.</text>
+<text x="44" y="225" font-size="17" font-weight="bold">What to record</text>
+<g fill="none" stroke="#31503e" stroke-width="2">
+<path d="M76 256h58v53H76z M76 262h58 M76 270h58 M76 278h58 M76 286h58 M76 294h58 M76 302h58"/>
+<path d="M65 250v65 M145 250v65 M65 245h80 M65 245l8-4m-8 4 8 4 M145 245l-8-4m8 4-8 4"/>
+<path d="M350 252h74v58h-74z M364 264h46v34h-46z M364 270h46 M364 278h46 M364 286h46 M364 294h46"/>
+</g>
+<text x="167" y="266" font-size="14" font-weight="bold">Male</text><text x="167" y="286" font-size="12">Outside threads</text><text x="167" y="305" font-size="12">OD across thread crests</text>
+<text x="452" y="266" font-size="14" font-weight="bold">Female</text><text x="452" y="286" font-size="12">Inside threads</text><text x="452" y="305" font-size="12">Do not call opening size male OD</text>
+<text x="44" y="334" font-size="11" fill="#526356">Diagrams are illustrative, not to scale. No dimension or pitch can be read from them.</text>
+<g fill="none" stroke="#aab7aa"><rect x="44" y="354" width="344" height="398" rx="5"/><rect x="406" y="354" width="344" height="398" rx="5"/></g>
+<g font-size="13"><text x="60" y="383" font-size="19" font-weight="bold">PART A</text><text x="422" y="383" font-size="19" font-weight="bold">PART B</text>
+<text x="60" y="413">Maker / model / part number:</text><text x="422" y="413">Maker / model / part number:</text>
+<text x="60" y="465">Full printed marking / document reference:</text><text x="422" y="465">Full printed marking / document reference:</text>
+<text x="60" y="517">End: male / female / unknown (circle)</text><text x="422" y="517">End: male / female / unknown (circle)</text>
+<text x="60" y="549">Accessible MALE outside diameter:</text><text x="422" y="549">Accessible MALE outside diameter:</text>
+<text x="330" y="576">mm</text><text x="692" y="576">mm</text>
+<text x="60" y="604">Pitch / TPI and measurement method:</text><text x="422" y="604">Pitch / TPI and measurement method:</text>
+<text x="60" y="660">Parallel / taper / unknown:</text><text x="422" y="660">Parallel / taper / unknown:</text>
+<text x="60" y="712">Washer / seat / damage / photo reference:</text><text x="422" y="712">Washer / seat / damage / photo reference:</text></g>
+<g stroke="#9eada0" stroke-width="1"><path d="M60 438h312 M422 438h312 M60 490h312 M422 490h312 M60 578h258 M422 578h258 M60 631h312 M422 631h312 M60 683h312 M422 683h312 M60 735h312 M422 735h312"/></g>
+<text x="44" y="788" font-size="17" font-weight="bold">Reference only — not a measured-match tolerance</text>
+<g font-size="13"><text x="44" y="817">3/4 GHT / NH</text><text x="295" y="817">about 27.0 mm male OD</text><text x="601" y="817">11.5 TPI</text>
+<text x="44" y="845">G3/4 BSPP, confirmed parallel</text><text x="295" y="845">about 26.44 mm male OD</text><text x="601" y="845">14 TPI</text></g>
+<text x="44" y="873" font-size="12">A bare “BSP” marking or a diameter/pitch reading does not prove parallel BSPP.</text>
+<text x="44" y="909" font-size="17" font-weight="bold">Unresolved question for the part’s manufacturer</text>
+<g stroke="#9eada0"><path d="M44 940h706 M44 967h706"/></g>
+<text x="44" y="995" font-size="12">Confirm the standard, size, pitch, taper, mating sex, seal and application rating.</text>
+<text x="44" y="1015" font-size="12">No fit, pressure or leak-resistance certification is made by this worksheet.</text>
+<path d="M44 1036h706" stroke="#bac4b8"/>
+<g font-size="10" fill="#526356"><text x="44" y="1057">References: Task Force Tips LIA-600 Rev02, p.5; Parker technical handbook, European thread types, Aa-25.</text>
+<text x="44" y="1075">Original worksheet · 29 Oct 2026 · tatyanazaiceva76.github.io/garden-hose-thread-notes/</text>
+<text x="44" y="1093">Static blank file. No scripts, external resources, data collection or automatic identification.</text></g>
+</g></svg>
